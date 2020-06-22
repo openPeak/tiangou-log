@@ -7,4 +7,6 @@ echo "This is last day \n";
 
 
 // 在dev分支上进行操作
-$i = 10;
+$i = "dev";
+
+$s = "dev";
